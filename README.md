@@ -1,6 +1,6 @@
 # My HelpDesk Manager
 
-Under construction.
+SSR support ticket management application with statistics dashboard, comments and history system, status workflow with valid transitions, categorization by type and priority, urgent ticket alerts and average resolution time.
 
 
 ## ScreenShots
